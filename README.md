@@ -46,6 +46,6 @@ An **AI** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" />
 <p align="center"> [![](https://github-readme-stats.vercel.app/api?username=Tox1cCoder)](https://github.com/Tox1cCoder/github-readme-stats)
 <p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tox1cCoder&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
