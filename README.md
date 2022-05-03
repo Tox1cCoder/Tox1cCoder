@@ -26,7 +26,7 @@ An **AI** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a student at University of Information Technology
-- 🌱 I’m currently exploring JAVA, React and Data Structures and Algorithms. 
+- 🌱 I’m currently exploring Machine Learning, Data Visualization and DSA. 
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
 
 
