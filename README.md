@@ -29,8 +29,8 @@
 - 🌱 I’m currently exploring Machine Learning, Data Visualization and DSA. 
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
 
+<a href="https://tox1ccoder.github.io/about/"></a>
 
-https://tox1ccoder.github.io/about/
 
 
 
