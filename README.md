@@ -30,6 +30,9 @@
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
 
 
+https://tox1ccoder.github.io/about/
+
+
 
 **Languages and Tools:**  
 
