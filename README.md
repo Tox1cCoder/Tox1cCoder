@@ -3,13 +3,13 @@
 <a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
 </a>
 <a href="https://www.instagram.com/d.thai28">
-  <img align="left" alt="Duy Thai's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Duy Thai's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/white" />
 </a>
 <a href="https://www.facebook.com/duythai.nguyen.9279/">
   <img align="left" alt="Duy Thai's Facebook" width="24px" src="https://cdn.simpleicons.org/facebook/white" />
 </a>
 <a href="https://twitter.com/DuyThai28">
-  <img align="left" alt="Duy Thai's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Duy Thai's Twitter" width="24px" src="https://cdn.simpleicons.org/twitter/white" />
 </a>
 
 
