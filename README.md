@@ -53,7 +53,7 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder)" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Tox1cCoder&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
