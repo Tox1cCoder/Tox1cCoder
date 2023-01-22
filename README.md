@@ -26,7 +26,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a student at University of Information Technology
-- 🌱 I’m currently exploring Machine Learning, Data Visualization and DSA. 
+- 🌱 I’m currently exploring Artificial Intelligence and Deep Learning. 
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
 
 <a href="https://tox1ccoder.github.io/about/">My personal website</a>
