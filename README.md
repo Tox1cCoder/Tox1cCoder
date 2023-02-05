@@ -13,8 +13,6 @@
 </a>
 
 
-
-
 <br />
 <br />
 
@@ -30,7 +28,6 @@
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
 
 <a href="https://tox1ccoder.github.io/about/">My personal website</a>
-
 
 
 
@@ -53,4 +50,5 @@
 <br />
 <br />
 
-[![](https://github-readme-stats.vercel.app/api?username=Tox1cCoder)](https://github.com/Tox1cCoder/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tox1cCoder&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" alt="Tox1cCoder's Github Stats" >](https://github.com/Tox1cCoder/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tox1cCoder&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
