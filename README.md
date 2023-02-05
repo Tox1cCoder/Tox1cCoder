@@ -50,6 +50,10 @@
 <br />
 <br />
 
+<div align="center">
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" alt="Tox1cCoder's Github Stats">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tox1cCoder&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
