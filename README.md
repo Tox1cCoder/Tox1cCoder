@@ -21,14 +21,12 @@
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+<a href="https://tox1ccoder.github.io/about/">**About Me!**</a>
+
 
 - 👨🏽‍💻 I’m currently a student at the University of Information Technology.
 - 🌱 I’m currently exploring Artificial Intelligence and Deep Learning. 
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
-
-<a href="https://tox1ccoder.github.io/about/">My personal website</a>
-
 
 
 **Languages and Tools:**  
