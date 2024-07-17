@@ -9,7 +9,7 @@
   <img align="left" alt="Duy Thai's Facebook" width="24px" src="https://cdn.simpleicons.org/facebook/white" />
 </a>
 <a href="https://twitter.com/DuyThai28">
-  <img align="left" alt="Duy Thai's Twitter" width="24px" src="https://cdn.simpleicons.org/twitter/white" />
+  <img align="left" alt="Duy Thai's X" width="24px" src="https://cdn.simpleicons.org/x/white" />
 </a>
 
 
