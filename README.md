@@ -26,7 +26,7 @@
 
 - 👨🏽‍💻 I’m currently a student at the University of Information Technology.
 - 🌱 I’m currently exploring Artificial Intelligence and Deep Learning. 
-- 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com).
+- 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
 
 
 **Languages and Tools:**  
