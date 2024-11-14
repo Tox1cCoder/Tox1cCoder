@@ -55,6 +55,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" alt="Tox1cCoder's Github Stats">
   
 <br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tox1cCoder)](https://git.io/streak-stats)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tox1cCoder)](https://git.io/streak-stats)
 
