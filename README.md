@@ -24,8 +24,8 @@
 <a href="https://tox1ccoder.github.io/about/">**About Me!**</a>
 
 
-- 👨🏽‍💻 I’m currently a student at the University of Information Technology.
-- 🌱 I’m currently exploring Artificial Intelligence and Deep Learning. 
+- 👨🏽‍💻 I’m formerly a student at the University of Information Technology.
+- 🌱 I’m currently exploring Artificial Intelligence and Deep Learning fields. 
 - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
 
 
@@ -54,10 +54,6 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tox1cCoder" alt="Tox1cCoder's Github Stats">
   
-<br />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tox1cCoder)](https://git.io/streak-stats)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tox1cCoder)](https://git.io/streak-stats)
-
 </div>
