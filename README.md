@@ -25,7 +25,7 @@
 
 - 👨🏽‍💻 I’m formerly a student at the University of Information Technology.
 - 💼 I’m now working as an AI Engineer, building solutions for multi-agent systems, LLMs, and RAG.
-- - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
+- 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
 
 
 **Languages and Tools:**  
