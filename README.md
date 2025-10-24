@@ -23,10 +23,9 @@
 
 <a href="https://tox1ccoder.github.io/about/">**About Me!**</a>
 
-
 - 👨🏽‍💻 I’m formerly a student at the University of Information Technology.
-- 🌱 I’m currently exploring Artificial Intelligence and Deep Learning fields. 
-- 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
+- 💼 I’m now working as an AI Engineer, building solutions for multi-agent systems, LLMs, and RAG.
+- - 📫 Email me at [duythai.nguyen0208@gmail.com](mailto:duythai.nguyen0208@gmail.com)
 
 
 **Languages and Tools:**  
