@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+<a href="https://www.linkedin.com/in/duy-thai-nguyen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:duythai.nguyen0208@gmail.com">
@@ -33,25 +33,35 @@ I am an **AI Engineer** focused on bridging the gap between theoretical AI model
 
 ## Technical Skills
 
+**AI & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+
+**Backend & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoLISP-E34F26?style=flat&logo=autodesk&logoColor=white" />
 
-**Web & Database**
+**Web & Tools**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-
-**DevOps & Tools**
-<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
 <br>
 <br>
 
-![Duy Thai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tox1cCoder&show_icons=true&theme=default&hide_border=true&hide_title=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tox1cCoder&theme=default" width="100%">
