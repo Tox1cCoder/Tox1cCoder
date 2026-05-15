@@ -3,8 +3,6 @@
 # Duy Thai
 ### AI Engineer
 
-*Multi-Agent Systems | Large Language Models | RAG Solutions*
-
 <br>
 
 <a href="https://www.linkedin.com/in/duy-thai-nguyen/">
